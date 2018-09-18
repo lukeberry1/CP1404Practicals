@@ -4,7 +4,7 @@ Basic manual tests for Guitar class
 """
 from prac_06.Guitars import Guitars
 
-CURRENT_YEAR = 2017
+CURRENT_YEAR = 2018
 
 
 def run_tests():
